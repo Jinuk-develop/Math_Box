@@ -4,7 +4,6 @@ def add(a, b):
 
 def subtract(a, b):
   return a-b
-<<<<<<< HEAD
 
 def multiply(a, b):
    return a*b
@@ -14,7 +13,4 @@ def divide_new(a,b):
 
 def square (a):
    return a*a
-=======
-def multiply(a,b):
-  return a*b
->>>>>>> 46de73a39cc9fc188940f9dbc05dfbad280214e5
+
